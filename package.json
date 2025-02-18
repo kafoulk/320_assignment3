@@ -1,0 +1,21 @@
+{
+  "name": "320_assignment3-main",
+  "version": "1.0.0",
+  "description": "Simple web server using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "promises": "promises"
+  },
+  "keywords": [
+    "node.js",
+    "promises",
+    "web server"
+  ],
+  "author": "Kiersten Foulk",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
